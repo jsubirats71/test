@@ -3,8 +3,8 @@
 
 echo "Hola Mundo !";
 
-if (true) {
-	echo "Vrai !";
+if (false) {
+	echo "false !";
 
 }
 
